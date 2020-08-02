@@ -3,7 +3,7 @@ date_default_timezone_set('Asia/Jakarta');
 include "function.php";
 ulang:
 // function change(){
-echo " ðŸ‡® ðŸ‡¹ 'ðŸ‡¸  ðŸ‡« ðŸ‡· ðŸ‡ª ðŸ‡ª  ðŸ‡³ ðŸ‡´  ðŸ‡« ðŸ‡ª ðŸ‡ª\n";
+echo " APA MBUH APA NO LAHH MUMET NDASE\n";
         $nama = nama();
         $email = str_replace(" ", "", $nama) . mt_rand(100, 999);
         echo " Number  : ";
